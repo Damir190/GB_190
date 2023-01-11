@@ -10,4 +10,4 @@ Master INFO
 190 
 190 mob
 
-FATAL conflikt
+FATAL confliсt
