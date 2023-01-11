@@ -8,3 +8,4 @@ nu wo vi?
 Master INFO
 
 190 
+190 mob
