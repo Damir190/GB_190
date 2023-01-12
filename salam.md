@@ -15,3 +15,4 @@ WAR WAR
 
 FATAL confliсt
 
+local repository
